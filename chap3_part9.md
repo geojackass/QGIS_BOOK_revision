@@ -29,10 +29,10 @@ QGIS3.x系に於いてOpenStreetMapは予め使用可能になっています。
 
 - 地理院地図を追加する
 ![xyz_tile5](img/qgis3_2_4.png)
-
-- 名前:地理院地図
-- URL```https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png```
+	- 名前:地理院地図
+	- URL```https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png```
 と記入してください。
+
 
 - 地理院地図を表示する
 ![xyz_tile5](img/qgis3_2_5.png)
