@@ -26,13 +26,19 @@ QGIS3.x系に於いてOpenStreetMapは予め使用可能になっています。
 
 - 右クリック後、New Connectionをクリックしてください。下記画面が表示されます。
 ![xyz_tile4](img/qgis3_2_3.png)
- 
+
 - 地理院地図を追加する
 ![xyz_tile5](img/qgis3_2_4.png)
 
 - 名前:地理院地図
 - URL```https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png```
 と記入してください。
+
+- 地理院地図を表示する
+![xyz_tile5](img/qgis3_2_5.png)
+
+
+<strike>
 
 - 図9-1：
 
@@ -121,7 +127,7 @@ C:¥Users¥[UserName]¥.qgis2¥python¥plugins¥TileLayerPlugin
 - 図9-11：白地図
 
 - 図9-12：色別標高図
-
+</strike>
 #### 9.2.3：投影法を設定する
 　OpenLayers Plugin/TileLayer Pluginを使用する場合は、投影法が「WGS 84 / PesudoMercator（EPGS:3857）」に自動的に設定されます。設定後に投影法を変更してしまった場合は、表示がされなくなってしまうので注意が必要です。
 　表示されなくなった場合は、投影法を元に戻しましょう。
