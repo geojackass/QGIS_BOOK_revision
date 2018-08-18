@@ -24,8 +24,10 @@ QGIS3.x系に於いてOpenStreetMapは予め使用可能になっています。
 - XYZ Tilesを右クリックしてください。
 ![xyz_tile3](img/qgis3_2_1a.png)
 
+
 - 右クリック後、New Connectionをクリックしてください。下記画面が表示されます。
 ![xyz_tile4](img/qgis3_2_3.png)
+
 
 - 地理院地図を追加する
 ![xyz_tile5](img/qgis3_2_4.png)
