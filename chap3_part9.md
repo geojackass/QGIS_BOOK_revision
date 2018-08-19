@@ -188,8 +188,6 @@ exec(open("[dir_pth]/tile_plugin.py", encoding="utf-8").read())
 [dir_pthには]、qgis3_tile_settings.pyを格納したディレクトリまでのフルパスを記載します。
 この時、少々癖がありWinodwsで一般的なパスではありません。例えばCドライブの直下にある場合は```C:```だけ記載します。また、バックスラッシュも、通常のスラッシュで記載してください。
 
-- 追加されたタイルマップの一覧
+- 追加されたタイルマップの一覧  
 ![chap9_2_3](img/chap9_2_3.png)
-
-- 
 ![chap9_2_4](img/chap9_2_4.png)
