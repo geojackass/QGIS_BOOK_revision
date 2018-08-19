@@ -54,7 +54,7 @@ QGIS3.x系に於いてOpenStreetMapは予め使用可能になっています。
 <!DOCTYPE connections>
     <qgsXYZTilesConnections version="1.0">
 	[ここに使用したいTileMapの接続先を記載する]
-	</qgsXYZTilesConnections>
+    </qgsXYZTilesConnections>
 ```
 
 - 接続先を記載する際には、下記のXMLTagに従い追記します。
