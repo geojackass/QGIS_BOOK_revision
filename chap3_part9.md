@@ -23,14 +23,15 @@ QGIS3.x系に於いてOpenStreetMapは予め使用可能になっています。
 ![chap9_1_3](img/chap9_1_3.png)
 
 
-- 右クリック後、New Connectionをクリックしてください。
+
+- 右クリック後、New Connectionをクリックしてください。  
 ![chap9_1_7](img/chap9_1_7.png)   
 
-- 下記画面が表示されます。
+- 下記画面が表示されます。  
 ![chap9_1_4](img/chap9_1_4.png)  
 
 
-- 地理院地図を追加する  
+- 地理院地図を追加する    
 ![chap9_1_5](img/chap9_1_5.png)
 	- 名前:地理院地図
 	- URL```https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png```
