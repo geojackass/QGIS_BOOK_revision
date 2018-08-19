@@ -88,10 +88,9 @@ usernameやpassword等は、有料のTileMapを使用する際に用いるもの
     </qgsXYZTilesConnections>
 ```
 
-設定ファイルを作成したら、任意のディレクトリに保存してください。
-保存後に、QGISのブラウザパネルから、「XYZ Tiles」を右クリックしてください。
-
-- XYZ Tilesを右クリックし、Load Connectionsを選択してください。
+- 設定ファイルを作成したら、任意のディレクトリに保存してください。
+- 保存後に、QGISのブラウザパネルから、「XYZ Tiles」を右クリックしてください。
+- XYZ Tilesを右クリックし、Load Connectionsを選択してください。  
 ![chap9_1_7](img/chap9_1_7.png)  
 
 - 接続情報を確認されます。この時に、先ほど作成したXMLのファイルを参照します。
