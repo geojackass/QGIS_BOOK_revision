@@ -19,15 +19,15 @@ QGIS3.x系に於いてOpenStreetMapは予め使用可能になっています。
 
 ### 9.1.2 地理院地図をレイヤーとして追加する方法
 ブラウザパネル内の
-- XYZ Tilesを右クリックしてください。
+- XYZ Tilesを右クリックしてください。  
 ![chap9_1_3](img/chap9_1_3.png)
 
 
 - 右クリック後、New Connectionをクリックしてください。
-![chap9_1_7](img/chap9_1_7.png) 
+![chap9_1_7](img/chap9_1_7.png)   
 
 - 下記画面が表示されます。
-![chap9_1_4](img/chap9_1_4.png)
+![chap9_1_4](img/chap9_1_4.png)  
 
 
 - 地理院地図を追加する  
@@ -91,13 +91,13 @@ usernameやpassword等は、有料のTileMapを使用する際に用いるもの
 保存後に、QGISのブラウザパネルから、「XYZ Tiles」を右クリックしてください。
 
 - XYZ Tilesを右クリックし、Load Connectionsを選択してください。
-![chap9_1_7](img/chap9_1_7.png)
+![chap9_1_7](img/chap9_1_7.png)  
 
 - 接続情報を確認されます。この時に、先ほど作成したXMLのファイルを参照します。
-![chap9_1_8](img/chap9_1_8.png)
+![chap9_1_8](img/chap9_1_8.png)  
 
 - qgis3_xml_settingsを読み込む
-![chap9_1_9](img/chap9_1_9.png)
+![chap9_1_9](img/chap9_1_9.png)  
 
 - 「開く」(読み込み)と同時に、インポートする接続先を確認されます。今回は「全て選択」をクリックします。
 ![chap9_1_10](img/chap9_1_10.png)
