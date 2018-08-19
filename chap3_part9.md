@@ -175,7 +175,7 @@ XML同様にusernameやpassword等は、有料のTileMapを使用する際に用
 
 作成したpython scriptをQGISのpythonコンソールから呼び出します。
 
-- pythonコンソールを起動する
+- pythonコンソールを起動する  
 ![chap9_2_1](img/chap9_2_1.png)
 
 - pythonコンソールからscriptを起動する
