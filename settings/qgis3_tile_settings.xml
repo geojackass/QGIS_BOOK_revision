@@ -1,0 +1,15 @@
+<!DOCTYPE connections>
+    <qgsXYZTilesConnections version="1.0">
+        <xyztiles username="" name="WikimediaMap" password="" authcfg="" zmin="1" referer="" url="https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png" zmax="20"/>
+        <xyztiles username="" name="WikimediaHikeBikeMap" password="" authcfg="" zmin="1" referer="" url="http://tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png" zmax="17"/>
+        <xyztiles username="" name="OpenStreetMapStandard" password="" authcfg="" zmin="0" referer="" url="http://tile.openstreetmap.org/{z}/{x}/{y}.png" zmax="19"/>
+        <xyztiles username="" name="OpenStreetMapH.O.T." password="" authcfg="" zmin="0" referer="" url="http://tile.openstreetmap.fr/hot/{z}/{x}/{y}.png" zmax="19"/>
+        <xyztiles username="" name="OpenStreetMapMonochrome" password="" authcfg="" zmin="0" referer="" url="http://tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png" zmax="19"/>
+        <xyztiles username="" name="BingVirtualEarth" password="" authcfg="" zmin="1" referer="" url="http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=1" zmax="19"/>
+        <xyztiles username="" name="地理院標準地図" password="" authcfg="" zmin="2" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png" zmax="18"/>
+        <xyztiles username="" name="地理院淡色地図" password="" authcfg="" zmin="2" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png" zmax="18"/>
+        <xyztiles username="" name="地理院白地図" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png" zmax="14"/>
+        <xyztiles username="" name="地理院English" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/english/{z}/{x}/{y}.png" zmax="11"/>
+        <xyztiles username="" name="地理院色別標高図" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/relief/{z}/{x}/{y}.png" zmax="15"/>
+        <xyztiles username="" name="土地利用図" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/lum200k/{z}/{x}/{y}.png" zmax="17"/>
+    </qgsXYZTilesConnections>
