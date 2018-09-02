@@ -37,6 +37,7 @@ Tableauには商用のものと、Publicエディションの両方が用意さ�
 - 図10-4a：Tableau Public
 ![chap16_4a](img/chap16_4a.png)
 
+>RESAS キャプチャ追加
 ここではRESASで公開されている、雇用に関するデータを使用して、都道府県別に表示を行う。
 - 従業者数(企業単位)\_都道府県_業種別中分類.csv
 
@@ -47,10 +48,10 @@ Tableauには商用のものと、Publicエディションの両方が用意さ�
 ![chap16_4b](img/chap16_4b.png)
 
 読み込んだら、「データ」からリレーションの選択をクリックし、下記のように設定する。
-- 図10-4c：Tableau Public
+- 図10-4c：Tableau Public  
 ![chap16_4c](img/chap16_4c.png)
 
-- 図10-4d：Tableau Public
+- 図10-4d：Tableau Public  
 ![chap16_4d](img/chap16_4d.png)
 
 - プライマリデータソース:従業者数(企業単位)\_都道府県_業種別中分類
@@ -58,7 +59,7 @@ Tableauには商用のものと、Publicエディションの両方が用意さ�
 - カスタムにチェックを入れる
 - 追加をクリックする
 
-- 図10-4e：Tableau Public
+- 図10-4e：Tableau Public  
 ![chap16_4e](img/chap16_4e.png)
 
 リレーションを作成する。
@@ -66,12 +67,13 @@ Tableauには商用のものと、Publicエディションの両方が用意さ�
 - プライマリデータソースフィールド:都道府県名
 - セカンダリデータソースフィールド:N03_001
 
-- 図10-4f：Tableau Public
+- 図10-4f：Tableau Public  
 ![chap16_4f](img/chap16_4f.png)
 
+>4g追加
 
 画面左上、鎖マークでデータソースが連結されていることが確認できる。
-- 図10-4h：Tableau Public
+- 図10-4h：Tableau Public  
 ![chap16_4h](img/chap16_4h2.png)
 
 次に、Tableauの標準マップではなく、農研機構の公開するWMS配信サーバーからデータを取得して、日本のみを表示する。
