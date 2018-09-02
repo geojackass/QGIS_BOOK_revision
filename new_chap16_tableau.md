@@ -81,7 +81,7 @@ Tableauには商用のものと、Publicエディションの両方が用意さ�
 マップ⇒バックグラウンドマップ⇒マップサービスの順にクリックしてください。
 マップサービスのURLには、下記URLを指定してください。
 
-- 図10-5：Tableau Public
+- 図10-5：Tableau Public  
 ![chap16_5](img/chap16_5.png)
 ```
 http://www.finds.jp/ws/wms.php?
