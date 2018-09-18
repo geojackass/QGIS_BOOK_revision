@@ -195,13 +195,18 @@ exec(open("[dir_pth]/tile_plugin.py", encoding="utf-8").read())
 ### 9.2.3
 
 追加可能なTileMapは、地形や地図だけに限定されません。例えば、第2章4節公共のデータだけがオープンデータ？で紹介した「Project AERIAL」では、独立行政法人宇宙航空研究開発機構(JAXA)で公開されている人工衛星のデータを加工して、TileMapとして配信するサービスを行っております。
-「Project AERIAL」が公開する海水温や、海上風速などのタイルも、現在のところQGISで使用可能であり、他のサービスが公開する地図データに重ねて使用することが可能です。
+「Project AERIAL」が公開する海水温や、海上風速などのタイルも、現在のところ無償・無保証で使用可能であり、他のサービスが公開する地図データに重ねて使用することが可能です。
+
+下記URLにてデータを配布しております。
+```
+https://staging.aerial-proj.org/
+```
 
 - Sea Surface Temp
-![chap9_2_3](img/aerial2sst.png)
+![chap9_2_3](img/qgis_aerial.png)
 
 - Sea Surface Window
-![chap9_2_3](img/aerial2ssw.png)
+![chap9_2_3](img/qgis_aerial_ssw.png)
 
-> 「本著書にて使用したデータGCOM-W/AMSR2L3 データは、宇宙航空研究開発機構より提供を受けました。」 
->提供：JAXA
+> 「本著書にて使用したデータGCOM-W/AMSR2L3 データは、独立行政法人宇宙航空研究開発機構(JAXA)より提供を受けました。」 
+> 提供：独立行政法人宇宙航空研究開発機構(JAXA)
