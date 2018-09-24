@@ -1,4 +1,4 @@
-###ArcGIS Onlineの紹介
+### ArcGIS Onlineの紹介
 
 既存のGISソフトウェアとして、確固たるシェアを占めるArcGISだが、昨今では、時代の流れに合わせたArcGIS Proなどソフトウェア、ライセンスの体系の大幅な変更がありました。
 今回紹介するArcGIS Online等のいわゆるクラウドを意識した改正が多いです。
@@ -85,3 +85,5 @@ aedと同様の手順で、砂箱のzip(sunabako_20140220)もアップロード�
 「マップの保存」というアクティブウィンドウが出現します。ここにタイトルや、タグ、サマリーを記載します。記載が終わったら、マップの保存を行ってください。
 
 保存完了後に、マップの埋め込み用のリンクが表示されます。
+- see below
+https://www.arcgis.com/apps/MapTools/index.html?appid=f245ad45de754d0cadccf44d6c30ccda
