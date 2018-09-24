@@ -86,4 +86,4 @@ aedと同様の手順で、砂箱のzip(sunabako_20140220)もアップロード�
 
 保存完了後に、マップの埋め込み用のリンクが表示されます。
 - see below
-https://www.arcgis.com/apps/MapTools/index.html?appid=f245ad45de754d0cadccf44d6c30ccda
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="室蘭オープンデータマップ" src="//www.arcgis.com/apps/Embed/index.html?webmap=dc023917c3334baaaf401889055698b4&extent=140.8707,42.2907,141.1242,42.3958&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&details=true&legend=true&active_panel=details&disable_scroll=true&theme=light"></iframe></div>
