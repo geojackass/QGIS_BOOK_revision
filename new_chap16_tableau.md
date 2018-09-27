@@ -11,7 +11,7 @@
 ```
 https://public.tableau.com/ja-jp/s/download
 ```
-### Tbaleau Community
+### Tableau Community
 
 Tableauは、グラフやビジュアライゼーションに関する操作にかかる時間を大幅に削減してくれるツールです。ビジュアライゼーションの一環としての地図表示機能も備えており、地図そのものを編集するQGISと補完関係にあります。
 
@@ -47,7 +47,7 @@ https://community.tableau.com/groups/japan
 - 図10-4：Tableau Public
 ![chap16_4](img/chap16_4.png)
 
-Tableauには商用のものと、Publicエディションの両方が用意されており、幾ばくかの機能制約は受けるものの、publicエディションでも基本的な機能は使用可能です。今回は、本誌の趣旨であるオープンソースに即するために、Public エディションを使用します。オープンであることは、必ずしもフリーと等価ではありません。本書の執筆時点ではTableau Publicの機能制約として、Public版はデータを保存する際に、Tableau Publicのサーバーにデータを保存することが必須になります。ただし、この時にデータやダウンロードに関して制約を設けることは可能です。
+Tableauには商用のものと、Publicエディションの両方が用意されており、幾ばくかの機能制約は受けるものの、Publicエディションでも基本的な機能は使用可能です。今回は、本誌の趣旨であるオープンソースに即するために、Public エディションを使用します。オープンであることは、必ずしもフリーと等価ではありません。本書の執筆時点ではTableau Publicの機能制約として、Public版はデータを保存する際に、Tableau Publicのサーバーにデータを保存することが必須になります。ただし、この時にデータやダウンロードに関して制約を設けることは可能です。
 
 - 図10-4a：Tableau Public
 ![chap16_4a](img/chap16_4a.png)
